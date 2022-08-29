@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """
 * ⚠️ Unfinished (only shows URLs, the download functionality is not added yet)
 * ⚠️ It relies on Pinterest API V3 public endpoint which may get inactive any time.
